@@ -199,7 +199,7 @@ int main(void)
 	  Lcd_string(&lcd,"SAKTHIVEL");
   }
 }
-
+```
 
 
 ## Output screen shots of proteus  :
